@@ -1,3 +1,3 @@
 # Srepos1
-cautious-invention
+cautious-invention/
 test
